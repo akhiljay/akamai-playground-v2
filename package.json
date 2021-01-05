@@ -2,7 +2,7 @@
   "private": true,
   "dependencies": {
     "typescript": "latest",
-    "@theia/typescript": "next",
+    "@theia/typescript": "0.7.0",
     "@theia/navigator": "next",
     "@theia/terminal": "next",
     "@theia/outline-view": "next",
