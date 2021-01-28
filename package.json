@@ -11,7 +11,7 @@
     "@theia/git": "next",
     "@theia/file-search": "next",
     "@theia/markers": "next",
-    "@theia/preview": "next",
+    "@theia/preview": "1.10.0",
     "@theia/callhierarchy": "next",
     "@theia/merge-conflicts": "next",
     "@theia/search-in-workspace": "next",
