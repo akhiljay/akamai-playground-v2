@@ -16,7 +16,7 @@
     "@theia/merge-conflicts": "next",
     "@theia/search-in-workspace": "next",
     "@theia/json": "next",
-    "@theia/textmate-grammars": "next",
+    "@theia/textmate-grammars": "0.7.0",
     "@theia/mini-browser": "next"
   },
   "devDependencies": {
