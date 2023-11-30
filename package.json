@@ -6,18 +6,18 @@
     "@theia/navigator": "next",
     "@theia/terminal": "next",
     "@theia/outline-view": "next",
-    "@theia/preferences": "0.12.0",
+    "@theia/preferences": "1.0.0",
     "@theia/messages": "next",
     "@theia/git": "next",
     "@theia/file-search": "next",
     "@theia/markers": "next",
-    "@theia/preview": "next",
+    "@theia/preview": "1.0.0",
     "@theia/callhierarchy": "next",
     "@theia/merge-conflicts": "next",
     "@theia/search-in-workspace": "next",
-    "@theia/json": "next",
+    "@theia/json": "1.0.0",
     "@theia/textmate-grammars": "next",
-    "@theia/mini-browser": "next"
+    "@theia/mini-browser": "1.0.0"
   },
   "devDependencies": {
     "@theia/cli": "next"
