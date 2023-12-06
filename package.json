@@ -11,13 +11,13 @@
     "@theia/git": "next",
     "@theia/file-search": "next",
     "@theia/markers": "next",
-    "@theia/preview": "next",
+    "@theia/preview": "0.7.0",
     "@theia/callhierarchy": "next",
     "@theia/merge-conflicts": "next",
     "@theia/search-in-workspace": "next",
-    "@theia/json": "next",
+    "@theia/json": "0.7.0",
     "@theia/textmate-grammars": "next",
-    "@theia/mini-browser": "next"
+    "@theia/mini-browser": "0.7.0"
   },
   "devDependencies": {
     "@theia/cli": "next"
