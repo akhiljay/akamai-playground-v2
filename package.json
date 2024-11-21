@@ -17,9 +17,15 @@
     "@theia/search-in-workspace": "next",
     "@theia/json": "next",
     "@theia/textmate-grammars": "next",
-    "@theia/mini-browser": "next"
+    "@theia/mini-browser": "next",
+    "snyk": "^1.230.5"
   },
   "devDependencies": {
     "@theia/cli": "next"
-  }
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
